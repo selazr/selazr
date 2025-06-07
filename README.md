@@ -1,7 +1,6 @@
 # 👋 ¡Hola, soy César Arenas (selazr)!
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web en el Institut Lacetània  
-💼 Desarrollador web en LINE-X Hispania  
+🎓 Estudiante de Desarrollo de Aplicaciones Web en el Institut Lacetània    
 🚀 Apasionado por DevOps, Inteligencia Artificial y Automatización  
 🛠️ Explorador incansable de nuevas tecnologías  
 🌍 Ubicado en Barcelona, España
@@ -25,15 +24,15 @@ Actualmente trabajo en proyectos personales y profesionales relacionados con:
 ## 🛠️ Tecnologías que uso
 
 **Frontend:**
-- React, Vite, Tailwind CSS, Framer Motion
+- React, Vite, Tailwind CSS, Framer Motion, SASS, Bootstrap 5
 - HTML5, CSS3, JavaScript (ES6+)
 
 **Backend:**
-- Node.js, Express, Laravel
+- Node.js, Express, Laravel, Symphony, PHP
 - MySQL, MongoDB, Sequelize, Prisma
 
 **DevOps & Sistemas:**
-- Docker, Vagrant, Ansible
+- Docker, Vagrant, Ansible, Kubernetes
 - Linux (Ubuntu/Debian), Nginx, PM2
 - Automatización de robots (Borunte, SprutCAM, KUKA)
 
@@ -50,7 +49,7 @@ Actualmente trabajo en proyectos personales y profesionales relacionados con:
 |---------|-------------|-------------|
 | **Gestor de horarios** | Aplicación para gestionar trabajadores, horarios, días festivos y calendarios visuales. | React, Node.js, MySQL, Docker |
 | **Bot de Telegram OCR** | Bot que interpreta tickets con IA, permite corregir datos y los guarda en SQL. | Node.js, Telegram API, OpenAI, Tesseract |
-| **ERP personalizado (LXHERP)** | Sistema modular de gestión de personal, salarios y producción. | Laravel, MySQL, Vue/React |
+| **ERP personalizado** | Sistema modular de gestión de personal, salarios y producción. | Laravel, MySQL, Vue/React |
 | **Automatización CNC/Robótica** | Flujo para generar códigos de fresado KRL desde modelos STL. | Jetson, SprutCAM, Python |
 
 ---
@@ -65,8 +64,6 @@ Actualmente trabajo en proyectos personales y profesionales relacionados con:
 ## 📬 Contáctame
 
 - ✉️ selazr@protonmail.com
-- 📸 [@selazr](https://www.instagram.com/selazr) (si quieres mostrar tu faceta creativa o personal)
 
 ---
-
 > “Los que están lo suficientemente locos como para pensar que pueden cambiar el mundo, son los que lo hacen.” – Steve Jobs
