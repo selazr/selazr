@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy César Arenas (selazr)!
 
-🎓 Estudiante de Desarrollo de Aplicaciones Web en el Institut Lacetània    
+🎓 Desarrolador de Aplicaciones Web Graduado en (Institut Lacetània)
 🚀 Apasionado por DevOps, Inteligencia Artificial y Automatización  
 🛠️ Explorador incansable de nuevas tecnologías  
 🌍 Ubicado en Barcelona, España
